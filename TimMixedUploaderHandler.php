@@ -1,6 +1,6 @@
 <?php
 
-namespace UploaderHandler;
+namespace Ling\UploaderHandler;
 
 /*
  * LingTalfi 2016-01-11
@@ -64,8 +64,8 @@ namespace UploaderHandler;
  * 
  * 
  */
-use Bat\FileSystemTool;
-use Tim\TimServer\TimServerInterface;
+use Ling\Bat\FileSystemTool;
+use Ling\Tim\TimServer\TimServerInterface;
 
 class TimMixedUploaderHandler extends MixedUploaderHandler
 {

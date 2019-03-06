@@ -1,6 +1,6 @@
 <?php
 
-namespace UploaderHandler;
+namespace Ling\UploaderHandler;
 
 /*
  * LingTalfi 2016-01-11

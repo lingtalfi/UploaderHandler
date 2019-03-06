@@ -16,7 +16,7 @@ Install
 ==========
 Using the [uni](https://github.com/lingtalfi/universe-naive-importer) command.
 ```bash
-uni import UploaderHandler
+uni import Ling/UploaderHandler
 ```
 
 
